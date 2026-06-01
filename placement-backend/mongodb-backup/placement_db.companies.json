@@ -1,0 +1,120 @@
+[{
+  "_id": "C001",
+  "companyCode": "INFY",
+  "companyName": "Infosys",
+  "industry": "IT Services",
+  "contactPerson": "Ramesh Kumar",
+  "email": "hr@infosys.com",
+  "phone": {
+    "$numberLong": "9876543210"
+  },
+  "address": "Bangalore"
+},
+{
+  "_id": "C002",
+  "companyCode": "TCS",
+  "companyName": "Tata Consultancy Services",
+  "industry": "Software",
+  "contactPerson": "Anita Roy",
+  "email": "careers@tcs.com",
+  "phone": {
+    "$numberLong": "9988776655"
+  },
+  "address": "Chennai"
+},
+{
+  "_id": "C003",
+  "companyCode": "WIP",
+  "companyName": "Wipro",
+  "industry": "IT Solutions",
+  "contactPerson": "Sandeep Rao",
+  "email": "jobs@wipro.com",
+  "phone": {
+    "$numberLong": "9871234567"
+  },
+  "address": "Hyderabad"
+},
+{
+  "_id": "C004",
+  "companyCode": "CTS",
+  "companyName": "Cognizant",
+  "industry": "IT Services",
+  "contactPerson": "Priya Menon",
+  "email": "hiring@cognizant.com",
+  "phone": {
+    "$numberLong": "9898989898"
+  },
+  "address": "Kochi"
+},
+{
+  "_id": "C005",
+  "companyCode": "ACC",
+  "companyName": "Accenture",
+  "industry": "Consulting",
+  "contactPerson": "Vivek Sharma",
+  "email": "campus@accenture.com",
+  "phone": {
+    "$numberLong": "9776655443"
+  },
+  "address": "Bangalore"
+},
+{
+  "_id": "C006",
+  "companyCode": "IBM",
+  "companyName": "IBM India",
+  "industry": "Technology",
+  "contactPerson": "Sneha Iyer",
+  "email": "jobs@ibm.com",
+  "phone": {
+    "$numberLong": "9123456780"
+  },
+  "address": "Pune"
+},
+{
+  "_id": "C007",
+  "companyCode": "CAP",
+  "companyName": "Capgemini",
+  "industry": "IT Consulting",
+  "contactPerson": "Arun Thomas",
+  "email": "careers@capgemini.com",
+  "phone": {
+    "$numberLong": "9011223344"
+  },
+  "address": "Mumbai"
+},
+{
+  "_id": "C008",
+  "companyCode": "HCL",
+  "companyName": "HCL Technologies",
+  "industry": "Software",
+  "contactPerson": "Deepa Nair",
+  "email": "hcljobs@hcl.com",
+  "phone": {
+    "$numberLong": "9088776655"
+  },
+  "address": "Noida"
+},
+{
+  "_id": "C009",
+  "companyCode": "TECHM",
+  "companyName": "Tech Mahindra",
+  "industry": "IT Services",
+  "contactPerson": "Karthik Raj",
+  "email": "hiring@techmahindra.com",
+  "phone": {
+    "$numberLong": "9345678123"
+  },
+  "address": "Pune"
+},
+{
+  "_id": "C010",
+  "companyCode": "ZOHO",
+  "companyName": "Zoho Corporation",
+  "industry": "Product Based",
+  "contactPerson": "Sanjay Pillai",
+  "email": "careers@zoho.com",
+  "phone": {
+    "$numberLong": "9556677889"
+  },
+  "address": "Chennai"
+}]

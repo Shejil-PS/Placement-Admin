@@ -1,0 +1,413 @@
+[{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed3"
+  },
+  "applicationId": "A001",
+  "studentId": "S001",
+  "rollNo": "25MCA001",
+  "studentName": "ARJUN NAIR",
+  "placementId": "P001",
+  "jobId": "J001",
+  "companyId": "C001",
+  "companyName": "Infosys",
+  "appliedDate": "6/11/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/arjun.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS001",
+      "fieldId": "FF001",
+      "answer": "github.com/arjun"
+    },
+    {
+      "answerId": "ANS002",
+      "fieldId": "FF002",
+      "answer": "Java"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed4"
+  },
+  "applicationId": "A002",
+  "studentId": "S002",
+  "rollNo": "25MCA002",
+  "studentName": "RAHUL DAS",
+  "placementId": "P001",
+  "jobId": "J002",
+  "companyId": "C001",
+  "companyName": "Infosys",
+  "appliedDate": "6/11/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/rahul.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS003",
+      "fieldId": "FF003",
+      "answer": "rahul-portfolio.dev"
+    },
+    {
+      "answerId": "ANS004",
+      "fieldId": "FF004",
+      "answer": "2 Years"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed5"
+  },
+  "applicationId": "A003",
+  "studentId": "S003",
+  "rollNo": "25MCA003",
+  "studentName": "VISHNU RAJ",
+  "placementId": "P002",
+  "jobId": "J003",
+  "companyId": "C002",
+  "companyName": "Tata Consultancy Services",
+  "appliedDate": "7/2/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/vishnu.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS005",
+      "fieldId": "FF005",
+      "answer": "Selenium, Postman"
+    },
+    {
+      "answerId": "ANS006",
+      "fieldId": "FF006",
+      "answer": "Yes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed6"
+  },
+  "applicationId": "A004",
+  "studentId": "S007",
+  "rollNo": "24BCA001",
+  "studentName": "AKASH MENON",
+  "placementId": "P003",
+  "jobId": "J004",
+  "companyId": "C003",
+  "companyName": "Wipro",
+  "appliedDate": "7/13/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/akash.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS007",
+      "fieldId": "FF007",
+      "answer": "Windows, Linux"
+    },
+    {
+      "answerId": "ANS008",
+      "fieldId": "FF008",
+      "answer": "Intermediate"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed7"
+  },
+  "applicationId": "A005",
+  "studentId": "S008",
+  "rollNo": "24BCA002",
+  "studentName": "JOEL THOMAS",
+  "placementId": "P003",
+  "jobId": "J005",
+  "companyId": "C003",
+  "companyName": "Wipro",
+  "appliedDate": "7/13/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/joel.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS009",
+      "fieldId": "FF009",
+      "answer": "AWS"
+    },
+    {
+      "answerId": "ANS010",
+      "fieldId": "FF010",
+      "answer": "AWS Cloud Practitioner"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed8"
+  },
+  "applicationId": "A006",
+  "studentId": "S004",
+  "rollNo": "25MCA004",
+  "studentName": "ADITHYA KRISHNAN",
+  "placementId": "P004",
+  "jobId": "J006",
+  "companyId": "C004",
+  "companyName": "Cognizant",
+  "appliedDate": "8/2/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/adithya.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS011",
+      "fieldId": "FF011",
+      "answer": "github.com/adithya"
+    },
+    {
+      "answerId": "ANS012",
+      "fieldId": "FF012",
+      "answer": "Yes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed9"
+  },
+  "applicationId": "A007",
+  "studentId": "S029",
+  "rollNo": "24CS001",
+  "studentName": "KIRAN MATHEW",
+  "placementId": "P004",
+  "jobId": "J007",
+  "companyId": "C004",
+  "companyName": "Cognizant",
+  "appliedDate": "8/2/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/kiran.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS013",
+      "fieldId": "FF013",
+      "answer": "Advanced"
+    },
+    {
+      "answerId": "ANS014",
+      "fieldId": "FF014",
+      "answer": "Power BI, Tableau"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817eda"
+  },
+  "applicationId": "A008",
+  "studentId": "S009",
+  "rollNo": "24BCA003",
+  "studentName": "GOKUL KRISHNA",
+  "placementId": "P004",
+  "jobId": "J008",
+  "companyId": "C004",
+  "companyName": "Cognizant",
+  "appliedDate": "8/3/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/gokul.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS015",
+      "fieldId": "FF015",
+      "answer": "Yes"
+    },
+    {
+      "answerId": "ANS016",
+      "fieldId": "FF016",
+      "answer": "github.com/gokul-testing"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817edb"
+  },
+  "applicationId": "A009",
+  "studentId": "S005",
+  "rollNo": "25MCA005",
+  "studentName": "NEERAJ PILLAI",
+  "placementId": "P005",
+  "jobId": "J009",
+  "companyId": "C005",
+  "companyName": "Accenture",
+  "appliedDate": "8/16/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/neeraj.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS017",
+      "fieldId": "FF017",
+      "answer": "8"
+    },
+    {
+      "answerId": "ANS018",
+      "fieldId": "FF018",
+      "answer": "leetcode.com/neeraj"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817edc"
+  },
+  "applicationId": "A010",
+  "studentId": "S024",
+  "rollNo": "25MBA001",
+  "studentName": "HARI NARAYANAN",
+  "placementId": "P005",
+  "jobId": "J010",
+  "companyId": "C005",
+  "companyName": "Accenture",
+  "appliedDate": "8/16/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/hari.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS019",
+      "fieldId": "FF019",
+      "answer": "Advanced"
+    },
+    {
+      "answerId": "ANS020",
+      "fieldId": "FF020",
+      "answer": "Excellent"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817edd"
+  },
+  "applicationId": "A011",
+  "studentId": "S010",
+  "rollNo": "24BCA004",
+  "studentName": "VIVEK ANAND",
+  "placementId": "P006",
+  "jobId": "J011",
+  "companyId": "C006",
+  "companyName": "IBM India",
+  "appliedDate": "9/1/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/vivek.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS021",
+      "fieldId": "FF021",
+      "answer": "Fresher"
+    },
+    {
+      "answerId": "ANS022",
+      "fieldId": "FF022",
+      "answer": "Yes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ede"
+  },
+  "applicationId": "A012",
+  "studentId": "S011",
+  "rollNo": "24BCOM001",
+  "studentName": "ALAN GEORGE",
+  "placementId": "P007",
+  "jobId": "J012",
+  "companyId": "C007",
+  "companyName": "Capgemini",
+  "appliedDate": "9/11/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/alan.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS023",
+      "fieldId": "FF023",
+      "answer": "NISM Certified"
+    },
+    {
+      "answerId": "ANS024",
+      "fieldId": "FF024",
+      "answer": "Yes"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817edf"
+  },
+  "applicationId": "A013",
+  "studentId": "S025",
+  "rollNo": "25MBA002",
+  "studentName": "SREENATH MOHAN",
+  "placementId": "P007",
+  "jobId": "J013",
+  "companyId": "C007",
+  "companyName": "Capgemini",
+  "appliedDate": "9/11/2026",
+  "status": "Rejected",
+  "resumeUrl": "/resume/sreenath.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS025",
+      "fieldId": "FF025",
+      "answer": "HR Intern at XYZ"
+    },
+    {
+      "answerId": "ANS026",
+      "fieldId": "FF026",
+      "answer": "9"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ee0"
+  },
+  "applicationId": "A014",
+  "studentId": "S006",
+  "rollNo": "25MCA006",
+  "studentName": "AMAL DEV",
+  "placementId": "P008",
+  "jobId": "J014",
+  "companyId": "C008",
+  "companyName": "HCL Technologies",
+  "appliedDate": "9/21/2026",
+  "status": "Selected",
+  "resumeUrl": "/resume/amal.pdf",
+  "formAnswers": [
+    {
+      "answerId": "ANS027",
+      "fieldId": "FF027",
+      "answer": "Yes"
+    },
+    {
+      "answerId": "ANS028",
+      "fieldId": "FF028",
+      "answer": "No"
+    }
+  ]
+},
+{
+  "_id": "6a1d12a22d793865f6c30e29",
+  "applicationId": "A101",
+  "studentId": "S101",
+  "rollNo": "2026CS101",
+  "studentName": "Shejil PS",
+  "placementId": "P001",
+  "jobId": "J001",
+  "companyId": "C001",
+  "companyName": "Google LLC",
+  "appliedDate": "2026-06-01",
+  "status": "Selected",
+  "resumeUrl": "https://drive.google.com/file/d/shejil_resume",
+  "formAnswers": [
+    {
+      "answerId": "ANS001",
+      "fieldId": "F001",
+      "answer": "https://github.com/shejil"
+    }
+  ]
+}]

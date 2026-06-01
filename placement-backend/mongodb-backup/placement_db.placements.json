@@ -1,0 +1,467 @@
+[{
+  "_id": "P001",
+  "placementCode": "PLC-INFY-001",
+  "companyId": "C001",
+  "companyName": "Infosys",
+  "batchCode": "25MCA",
+  "driveStart": "6/10/2026",
+  "driveEnd": "6/15/2026",
+  "jobs": [
+    {
+      "jobId": "J001",
+      "companyId": "C001",
+      "role": "Backend Developer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 6.5,
+      "minCGPA": 7,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF001",
+          "label": "Github Profile",
+          "fieldType": "text",
+          "required": true
+        },
+        {
+          "fieldId": "FF002",
+          "label": "Preferred Backend Language",
+          "fieldType": "dropdown",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J002",
+      "companyId": "C001",
+      "role": "Frontend Developer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24BCA",
+      "employmentType": "Full Time",
+      "packageLPA": 6,
+      "minCGPA": 6.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF003",
+          "label": "Portfolio URL",
+          "fieldType": "text",
+          "required": true
+        },
+        {
+          "fieldId": "FF004",
+          "label": "Angular Experience",
+          "fieldType": "number",
+          "required": false
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P002",
+  "placementCode": "PLC-TCS-001",
+  "companyId": "C002",
+  "companyName": "Tata Consultancy Services",
+  "batchCode": "25MCA",
+  "driveStart": "7/1/2026",
+  "driveEnd": "7/5/2026",
+  "jobs": [
+    {
+      "jobId": "J003",
+      "companyId": "C002",
+      "role": "QA Engineer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24BCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 5.5,
+      "minCGPA": 6,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF005",
+          "label": "Automation Testing Tools Known",
+          "fieldType": "textarea",
+          "required": true
+        },
+        {
+          "fieldId": "FF006",
+          "label": "Manual Testing Experience",
+          "fieldType": "radio",
+          "required": false
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P003",
+  "placementCode": "PLC-WIP-001",
+  "companyId": "C003",
+  "companyName": "Wipro",
+  "batchCode": "24BCA",
+  "driveStart": "7/12/2026",
+  "driveEnd": "7/14/2026",
+  "jobs": [
+    {
+      "jobId": "J004",
+      "companyId": "C003",
+      "role": "System Engineer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24BCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 4.5,
+      "minCGPA": 6,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF007",
+          "label": "Operating Systems Known",
+          "fieldType": "multiselect",
+          "required": true
+        },
+        {
+          "fieldId": "FF008",
+          "label": "Linux Knowledge Level",
+          "fieldType": "dropdown",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J005",
+      "companyId": "C003",
+      "role": "Cloud Associate",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24DS",
+      "employmentType": "Full Time",
+      "packageLPA": 5.2,
+      "minCGPA": 6.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF009",
+          "label": "Cloud Platform Experience",
+          "fieldType": "dropdown",
+          "required": true
+        },
+        {
+          "fieldId": "FF010",
+          "label": "Certifications",
+          "fieldType": "textarea",
+          "required": false
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P004",
+  "placementCode": "PLC-CTS-001",
+  "companyId": "C004",
+  "companyName": "Cognizant",
+  "batchCode": "25MCA",
+  "driveStart": "8/1/2026",
+  "driveEnd": "8/3/2026",
+  "jobs": [
+    {
+      "jobId": "J006",
+      "companyId": "C004",
+      "role": "Java Developer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 6.8,
+      "minCGPA": 7,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF011",
+          "label": "Java Projects Github Link",
+          "fieldType": "text",
+          "required": true
+        },
+        {
+          "fieldId": "FF012",
+          "label": "Spring Boot Experience",
+          "fieldType": "radio",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J007",
+      "companyId": "C004",
+      "role": "Data Analyst",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24DS,25MCA",
+      "employmentType": "Full Time",
+      "packageLPA": 5.8,
+      "minCGPA": 6.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF013",
+          "label": "SQL Skill Level",
+          "fieldType": "dropdown",
+          "required": true
+        },
+        {
+          "fieldId": "FF014",
+          "label": "Analytics Tools Known",
+          "fieldType": "textarea",
+          "required": false
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J008",
+      "companyId": "C004",
+      "role": "Automation Tester",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24BCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 5.6,
+      "minCGPA": 6,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF015",
+          "label": "Selenium Experience",
+          "fieldType": "radio",
+          "required": true
+        },
+        {
+          "fieldId": "FF016",
+          "label": "Automation Project Link",
+          "fieldType": "text",
+          "required": false
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P005",
+  "placementCode": "PLC-ACC-001",
+  "companyId": "C005",
+  "companyName": "Accenture",
+  "batchCode": "24BCA",
+  "driveStart": "8/15/2026",
+  "driveEnd": "8/18/2026",
+  "jobs": [
+    {
+      "jobId": "J009",
+      "companyId": "C005",
+      "role": "Associate Software Engineer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MCA,24BCA,24CS",
+      "employmentType": "Full Time",
+      "packageLPA": 6.2,
+      "minCGPA": 6.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF017",
+          "label": "DSA Skill Rating",
+          "fieldType": "number",
+          "required": true
+        },
+        {
+          "fieldId": "FF018",
+          "label": "Coding Platform Profile",
+          "fieldType": "text",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J010",
+      "companyId": "C005",
+      "role": "Business Analyst",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MBA,24BBA,24BBAA",
+      "employmentType": "Full Time",
+      "packageLPA": 5.9,
+      "minCGPA": 6.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF019",
+          "label": "Excel Skill Level",
+          "fieldType": "dropdown",
+          "required": true
+        },
+        {
+          "fieldId": "FF020",
+          "label": "Presentation Skills",
+          "fieldType": "radio",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P006",
+  "placementCode": "PLC-IBM-001",
+  "companyId": "C006",
+  "companyName": "IBM India",
+  "batchCode": "25MCA",
+  "driveStart": "9/1/2026",
+  "driveEnd": "9/2/2026",
+  "jobs": [
+    {
+      "jobId": "J011",
+      "companyId": "C006",
+      "role": "Technical Support Engineer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24BCA,24CS,25MCA",
+      "employmentType": "Full Time",
+      "packageLPA": 5,
+      "minCGPA": 6,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF021",
+          "label": "Technical Support Experience",
+          "fieldType": "textarea",
+          "required": false
+        },
+        {
+          "fieldId": "FF022",
+          "label": "Shift Flexibility",
+          "fieldType": "checkbox",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P007",
+  "placementCode": "PLC-CAP-001",
+  "companyId": "C007",
+  "companyName": "Capgemini",
+  "batchCode": "24BCOM",
+  "driveStart": "9/10/2026",
+  "driveEnd": "9/12/2026",
+  "jobs": [
+    {
+      "jobId": "J012",
+      "companyId": "C007",
+      "role": "Financial Analyst",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24BCOM,24ACCA,24CMA",
+      "employmentType": "Full Time",
+      "packageLPA": 4.8,
+      "minCGPA": 6,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF023",
+          "label": "Finance Certifications",
+          "fieldType": "textarea",
+          "required": false
+        },
+        {
+          "fieldId": "FF024",
+          "label": "Tally Experience",
+          "fieldType": "radio",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    },
+    {
+      "jobId": "J013",
+      "companyId": "C007",
+      "role": "HR Operations Associate",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "25MBA,24BBA",
+      "employmentType": "Full Time",
+      "packageLPA": 4.5,
+      "minCGPA": 5.5,
+      "active": true,
+      "fields": [
+        {
+          "fieldId": "FF025",
+          "label": "HR Internship Experience",
+          "fieldType": "textarea",
+          "required": false
+        },
+        {
+          "fieldId": "FF026",
+          "label": "Communication Skill Rating",
+          "fieldType": "number",
+          "required": true
+        }
+      ],
+      "allowBacklog": false
+    }
+  ]
+},
+{
+  "_id": "P008",
+  "placementCode": "PLC-HCL-001",
+  "companyId": "C008",
+  "companyName": "HCL Technologies",
+  "batchCode": "24BCA",
+  "driveStart": "9/20/2026",
+  "driveEnd": "9/21/2026",
+  "jobs": [
+    {
+      "jobId": "J014",
+      "companyId": "C008",
+      "role": "Network Engineer",
+      "Description": {
+        "$numberDouble": "NaN"
+      },
+      "eligibleBatches": "24CS,25MCA",
+      "employmentType": "Full Time",
+      "packageLPA": 0,
+      "minCGPA": 0,
+      "active": true,
+      "fields": [],
+      "allowBacklog": true
+    }
+  ]
+}]

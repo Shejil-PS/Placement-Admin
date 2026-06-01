@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+mongo:
+  connection_string: "mongodb://localhost:27017"
+  db_name: "placement_db"
+  # Connection pool tuning
+  max_pool_size: 20
+  min_pool_size: 5
+  max_idle_time_ms: 60000
+  connect_timeout_ms: 5000
+  socket_timeout_ms: 10000
+  server_selection_timeout_ms: 5000
+
+app:
+  name: "Placement Service"
+  env: "production"         # production | development

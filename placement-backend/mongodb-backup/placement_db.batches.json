@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ec7"
+  },
+  "_id ": "B001",
+  "batchCode": "24BCA",
+  "batchName": "BCA",
+  "department": "Computer Science"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ec8"
+  },
+  "_id ": "B002",
+  "batchCode": "25MCA",
+  "batchName": "MCA",
+  "department": "Computer Science"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ec9"
+  },
+  "_id ": "B003",
+  "batchCode": "24BCOM",
+  "batchName": "B.Com",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817eca"
+  },
+  "_id ": "B004",
+  "batchCode": "24ACCA",
+  "batchName": "B.Com ACCA",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ecb"
+  },
+  "_id ": "B005",
+  "batchCode": "24CMA",
+  "batchName": "B.Com CMA",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ecc"
+  },
+  "_id ": "B006",
+  "batchCode": "24BBAA",
+  "batchName": "B.Com Business Analytics",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ecd"
+  },
+  "_id ": "B007",
+  "batchCode": "24BPMG",
+  "batchName": "B.Com BPM",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ece"
+  },
+  "_id ": "B008",
+  "batchCode": "24BBA",
+  "batchName": "BBA",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ecf"
+  },
+  "_id ": "B009",
+  "batchCode": "25MBA",
+  "batchName": "MBA",
+  "department": "Commerce"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed0"
+  },
+  "_id ": "B010",
+  "batchCode": "25MPSY",
+  "batchName": "Msc Psychology",
+  "department": "Psychology"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed1"
+  },
+  "_id ": "B011",
+  "batchCode": "24CS",
+  "batchName": "Computer Science",
+  "department": "Computer Science"
+},
+{
+  "_id": {
+    "$oid": "6a1963ed3cbba4f83d817ed2"
+  },
+  "_id ": "B012",
+  "batchCode": "24DS",
+  "batchName": "Data Science",
+  "department": "Computer Science"
+},
+{
+  "_id": "6a1ac58f6ff97259a757d9a7",
+  "_id ": "CS2026",
+  "batchCode": "CS2026",
+  "batchName": "Computer Science Class of 2026",
+  "department": "Computer Science and Engineering"
+}]
